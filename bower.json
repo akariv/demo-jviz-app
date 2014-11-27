@@ -1,0 +1,10 @@
+{
+  "name": "demo-app",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "d3": "~3.4.12",
+    "underscore": "~1.7.0",
+    "jquery": "~2.1.1"
+  }
+}

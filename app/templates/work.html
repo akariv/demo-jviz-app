@@ -1,0 +1,7 @@
+<div class="row employment-item">
+  <div class="employment-title">
+    <span class="dates"><%= startDate %> - <%= hasOwnProperty('endDate') ? endDate : '' %></span>
+    <span class="position"><%= position %></span> @ <span class="company"><%= company %></span>
+  </div>
+  <span class="description"><%= hasOwnProperty('summary') ? summary : 'Something' %></span>
+</div>

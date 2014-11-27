@@ -1,0 +1,297 @@
+{
+  "basics": {
+    "name": "Adam Kariv",
+    "picture": "https://media.licdn.com/mpr/mprx/0_8LXTPUairKl6MlhxG5NtPJj2KP_nUBhxGXrOPJYy7KBQk1c02iqSjMotYRiW4K3PT66xyYhi1Ghq",
+    "email": "adam.kariv@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "If it's software related, I can probably do it.\n\nSpecialties: \n- Software design of complex systems (esp. embedded systems, large scale distributed systems)\n- Excellent knowledge of Python, C, C++, Javascript\n- Operating systems concepts & internals (Linux & Android)\n- Web application design, both frontend development and large scale distributed backends\n- Telecom (Mobile and Fixed), VoIP, IP and other communication protocols\n- Finding simple solutions for complex problems",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Israel",
+      "countryCode": "IL",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "EverythingMe",
+      "position": "Mobile Architect",
+      "website": "",
+      "startDate": "2013-04-01",
+      "highlights": []
+    },
+    {
+      "company": "Screenovate Technologies ltd.",
+      "position": "VP R&D / CTO",
+      "website": "",
+      "startDate": "2011-11-01",
+      "summary": "At Screenovate we develop a complete suite of solutions revolving around the Miracast stack - a WiFi Alliance standard allowing wireless HD display through a WiFi network. \nScreenovate focuses on using the smartphone as the centerpiece in home entertainment, giving users the ability to use the home TV as a second screen - allowing big screen gaming and content consumption, while giving carriers a foothold in the living room. There are many challenges on the way there, starting from using as much HW acceleration as possible for completing low-level tasks through designing the best UX for this new usage scenario.\n\nDuring my time in Screenovate I\n- Led the architecture effort in the transition from a demoable PoC to a product\n- Instated work processes and tools in the development team\n- Managed the development team through an intensive project aimed at one of Japan's largest carriers\n- Researched and evaluated new technologies and platforms\n- Wrote lots of platform specific, low-level Android code (as well as some high-level stuff, too)\n- Solved some very nasty bugs",
+      "highlights": [],
+      "endDate": "2013-03-01"
+    },
+    {
+      "company": "Phonaris",
+      "position": "CTO and Co-Founder",
+      "website": "",
+      "startDate": "2009-07-01",
+      "summary": "At Phonaris we aimed to create a real-time management solution for provisioning, securing and configuring smartphones in an enterprise IT environment. We faced a multitude of different mobile platforms (it was before the great Android takeover), with different administration techniques and abilities.\nThe large scale, distributed back-end had to consolidate all differences into a streamlined web ui, which allowed real-time telemetry and control of single and grouped devices, hiding complexities and platform differences from the IT manager.\nAt Phonaris I designed and developed the distributed backend, designed the proprietary communication protocol used by on-device agents to communicate with the server and the web front-end for the IT manager.",
+      "highlights": [],
+      "endDate": "2011-11-01"
+    },
+    {
+      "company": "Integrity Project",
+      "position": "Freelancer",
+      "website": "",
+      "startDate": "2009-03-01",
+      "summary": "In this project I implemented a new encryption and authentication module for TI's Wireless LAN embedded driver in the Android and WinMo platforms.\nThis required understanding a newly released standard, diving into lots of legacy code (mostly Linux kernel driver) and modifying it in the most simple way to achieve the required functionality.",
+      "highlights": [],
+      "endDate": "2009-07-01"
+    },
+    {
+      "company": "IDF",
+      "position": "Program Manager",
+      "website": "",
+      "startDate": "2003-09-01",
+      "summary": "I led a ground-breaking highly technological operational system from inception through architecture, implementation till successful deployment.\nLeading 50 people, 20 of which under direct supervision.",
+      "highlights": [],
+      "endDate": "2009-02-01"
+    },
+    {
+      "company": "IDF",
+      "position": "Embedded Software Engineer and Team Leader",
+      "website": "",
+      "startDate": "1999-12-01",
+      "summary": "Responsible for the design and development of a complete software\nsystem for a complex distributed, embedded system, used in an\noperational project.\nIn charge of 10 software engineers and developers.",
+      "highlights": [],
+      "endDate": "2003-09-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University of Jerusalem",
+      "area": "Mathematics, Physics, Computer Science",
+      "studyType": "B.Sc",
+      "startDate": "1996-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1999-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Distributed Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Networks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Advanced CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Data",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Source",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development Tools",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Embedded Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telecommunications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CoffeeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Object Oriented Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Devices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TCP/IP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Wireless",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Multithreading",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OOP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scalability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux Kernel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interface",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Device Drivers",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": ""
+    }
+  ],
+  "volunteer": []
+}
